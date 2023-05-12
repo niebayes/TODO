@@ -1,3 +1,6 @@
+# Artificial Intelligence 
+- [ ] [CS 188](https://inst.eecs.berkeley.edu/~cs188/sp23/)
+
 # Compilers 
 - [ ] [CS 143](https://web.stanford.edu/class/cs143/)
 
