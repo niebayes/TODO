@@ -41,7 +41,7 @@ There’re a bunch of TODOs:
 		- [ ] Seems tags are controversial with keywords. Maybe we should discard the tagging feature.
 - [ ] Maybe we can develop an AI service to automatically generate a git commit message which summarizes the modification better than that written by human.
 - [ ] Publish the github action to the marketplace.
-- [ ] Write a tutorial about how to use the github action. You need to play with notion connections to get notion api key, notion api key to get workspace id, database id, page id, github token, github workflows. N
+- [ ] Write a tutorial about how to use the github action. You need to play with notion connections to get notion api key, notion api key to get workspace id, database id, page id, github token, github workflows. You have to set github workflow manually, e.g. set read-and-write permission.
 
 So, what’s the motivation? Why don’t simply copy-paste the shared link for each page in the workspace to the README file?
 
