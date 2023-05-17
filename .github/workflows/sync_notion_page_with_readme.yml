@@ -21,7 +21,7 @@ jobs:
       - name: Fetch Notion page
         run: |
           cd .github/workflows
-          node notion_page_to_readme.js
+          node save_notion_page_as_readme.js
           mv README.md ../../README.md
 
       - name: Commit changes
