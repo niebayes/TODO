@@ -1,4 +1,7 @@
 
+[bookmark](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961486&idx=1&sn=b319a87f87797d5d662ab4715666657f&chksm=bd2d0d528a5a84446fb88da7590e6d4e5ad06cfebb5cb57a83cf75056007ba29515c85b9a24c&scene=21#wechat_redirect)
+
+
 # GSoC x Jina AI
 
 - [ ] use debugger to trace the code path of handling a client request.
